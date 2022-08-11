@@ -4,7 +4,7 @@ This project is our attempt to clone the messaging app, Slack.
 
 <img src="https://user-images.githubusercontent.com/100396329/183933235-a3aa94ec-9098-4d1f-ae54-7bdd2aea60c7.png" width=600px>
 
-## Tools Used
+## Built with
 This project was created using TypeScript, ReactJS, and Tailwind. <br>
 A Slack API was used for authentication.
 
